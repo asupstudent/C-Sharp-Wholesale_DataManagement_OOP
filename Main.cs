@@ -3,6 +3,8 @@ using System.Configuration;
 using System.Windows.Forms;
 using FirebirdSql.Data.FirebirdClient;
 
+//Последняя версия проекта
+
 namespace Wholesale
 {
     public partial class Main : Form
